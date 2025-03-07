@@ -2,6 +2,7 @@ html {
   height: 100%;
   margin: 0;
 }
+
 body {
   background: hsl(212, 45%, 86%);
   height: 100%;
@@ -24,10 +25,6 @@ body {
   font-family: Outfit;
   font-size: 15px;
   border-radius: 15px;
-}
-
-#bold {
-  font-weight: bolder;
 }
 
 .attribution{
