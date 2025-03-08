@@ -10,11 +10,6 @@ html {
     --qr-heading-color: hsl(218, 44%, 22%);
 }
 
-html {
-  height: 100%;
-  margin: 0;
-}
-
 body {
   background: var(--background);
   height: 100%;
