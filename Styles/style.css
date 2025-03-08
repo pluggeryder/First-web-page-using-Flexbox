@@ -1,13 +1,13 @@
-html {
-  height: 100%;
-  margin: 0;
-}
-
 :root{
     --background: hsl(212, 45%, 89%);
     --qr-bg-color: hsl(0, 0%, 100%);
     --qr-body-color: hsl(216, 15%, 48%);
     --qr-heading-color: hsl(218, 44%, 22%);
+}
+
+html {
+  height: 100%;
+  margin: 0;
 }
 
 body {
