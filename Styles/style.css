@@ -1,3 +1,8 @@
+html {
+  height: 100%;
+  margin: 0;
+}
+
 :root{
     --background: hsl(212, 45%, 89%);
     --qr-bg-color: hsl(0, 0%, 100%);
